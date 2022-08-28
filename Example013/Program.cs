@@ -11,7 +11,5 @@ if (x >= 100)
 }
 else
 {
-    {
-        Console.WriteLine("Третьей цифры нет");
-    }
+    Console.WriteLine("Третьей цифры нет");
 }
